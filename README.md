@@ -1,1 +1,3 @@
 # backend_task_Shrikant
+what is mqtt?
+Ans :-  MQTT is a publish-subscribe communication protocol that organizes data into topics, orchestrated by a broker. Think of the broker as a compartmentalized bulletin board.MQTT also boasts of several other features that find a lot of applications in IoT. It supports ‘retained’ messages, wherein the broker can retain a copy of a message on a topic and send it to any future subscriber to that topic. 
